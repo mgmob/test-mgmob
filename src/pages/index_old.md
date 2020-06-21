@@ -5,7 +5,7 @@ image: /img/home-jumbotron.jpg
 heading: Калькулятор-калькулятор
 subheading: Пробуем калькулятор
 mainpitch:
-  title: Why Kaldi
+  title: Калькулятор
   description: >
     тут не надо ничего
 description: >-
